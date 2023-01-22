@@ -43,3 +43,18 @@ Recency – How recently did the customer purchase? </br> Frequency – How ofte
 ## <b>Team Members</b></br>
 Mohd Taufique </br>
 Sonica Sinha </br>
+
+
+### Acknowledgements 
+
+##### © Copyright 
+![image](https://user-images.githubusercontent.com/107030716/198835325-f3e1f465-d56d-4af2-9847-75ec15f1c311.png)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](### Acknowledgements 
+
+##### © Copyright 
+![image](https://user-images.githubusercontent.com/107030716/198835325-f3e1f465-d56d-4af2-9847-75ec15f1c311.png)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sonica-sinha-25792b18b)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MOHD-TAUFIQUE)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soni-Test)
