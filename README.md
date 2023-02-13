@@ -41,7 +41,6 @@ Recency – How recently did the customer purchase? </br> Frequency – How ofte
 
 ## <b>Team Members</b></br>
 Mohd Taufique </br>
-Sonica Sinha </br>
 
 
 ### Acknowledgements 
