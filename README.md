@@ -1,10 +1,9 @@
-# Online Retail Customer Segmentation- Unsupervised Machine Learning- CP-4
+# **<h3 align="center">Online Retail Customer Segmentation</h1>**
 
-# Unsupervised ML Customer Segmentation
+<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
-<p align="center">
-  <img width="600" height="300" src="https://user-images.githubusercontent.com/107030716/206497139-2238c744-2f7e-4a37-a6cb-91beefb4f387.png">
-</p>
+<img src="https://github.com/jatin090/Project-customer-segmentation/blob/main/clusters.gif" width="70%"/>
+
 
 
 ## Problem Description
